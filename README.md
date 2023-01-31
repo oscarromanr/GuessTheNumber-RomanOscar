@@ -5,5 +5,5 @@ Pequeño juego que permite a un ojo adivinar el número que estes pensando y dec
 ## Propósito
 Esta práctica fue realizada para la materia de Aplicaciones Móviles en el Instituto Tecnológico de Sonora.
 
-## Autor
+## Nombre
 Oscar de Jesús Roman Ruíz - 2023
